@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "65c9508c4ff08c52",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c260172f7caed8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1f427f648f877b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "utilities/Allocate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4b497f13f329ee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2f368b430037119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df8671edb5c0c258",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c0e5fb05751d4b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:binary-search",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e8cef38c4e56f79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9558c12d6f075975",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeaaaba0cb997425",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "304ca34e3ca9a73e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "utilities/Allocate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4ad0a79ac3eba778",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "utilities/Allocate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd32f4e887c0c73c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "121e1a2a923e2853",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "utilities/Allocate.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fa1f427f648f877b",
+  "lastOpenFiles": [
+    "utilities/Binary search.md",
+    "utilities/Swap.md",
+    "utilities/Allocate.md",
+    "data structures/Array.md",
+    "data structures/Array list.md",
+    "complexity/Constant O(1).md",
+    "complexity/Exponential О(2^n).md",
+    "complexity/Algorithmic complexity.md",
+    "complexity/Quadratic O(n^2).md",
+    "complexity/Logarithmic О(log(n)).md",
+    "complexity/Linear-logarithmic О(n*log(n)).md",
+    "complexity/Linear О(n).md",
+    "complexity/Factorial О(n!).md",
+    "assets/complexity.png",
+    "2023-11-14.md",
+    "complexity/Exponential **О(2^n)**.md",
+    "Linear-logarithmic **О(n/*log(n))**.md",
+    "Linear-logarithmic **О(n",
+    "complexity/Linear-logarithmic **О(n/*log(n))**.md",
+    "complexity/Linear-logarithmic **О(n",
+    "assets",
+    "complexity",
+    "utilities",
+    "algorithms",
+    "data structures"
+  ]
+}
