@@ -2,7 +2,7 @@
 tags:
   - logarithmic
 ---
-Relatively fast way of finding position of a value in a sorted array. Returns '-1' if the searched value doesn't exist in array.
+Relatively fast way of finding position of a value in a sorted array. Returns '-1' if the searched value doesn't exist in the given array.
 
 ```typescript
 function binarySearch(haystack: number[], needle: number) {
@@ -17,4 +17,13 @@ function binarySearch(haystack: number[], needle: number) {
 	}
 	return -1;
 }
+```
+
+Some other approaches to calculate midpoint and [why they are more preferable](https://www.youtube.com/watch?v=_eS-nNnkKfI):
+
+```typescript
+const mid = Math.floor(start + (start - end) / 2);
+```
+```typescript
+const mid = Math.floor(start / 2) + Math.floor(end / 2);
 ```

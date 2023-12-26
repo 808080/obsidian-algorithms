@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75c260172f7caed8",
+        "id": "17017329dfc592c6",
         "type": "tabs",
         "children": [
           {
-            "id": "fa1f427f648f877b",
+            "id": "6476a1f44c7e74ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utilities/Allocate.md",
+                "file": "data structures/Least Recently Used.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "utilities/Allocate.md",
+                "file": "data structures/Least Recently Used.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "utilities/Allocate.md",
+                "file": "data structures/Least Recently Used.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "utilities/Allocate.md"
+                "file": "data structures/Least Recently Used.md"
               }
             }
           }
@@ -145,22 +145,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa1f427f648f877b",
+  "active": "6476a1f44c7e74ad",
   "lastOpenFiles": [
-    "utilities/Binary search.md",
-    "utilities/Swap.md",
-    "utilities/Allocate.md",
-    "data structures/Array.md",
+    "data structures/Doubly Linked list.md",
+    "data structures/Least Recently Used.md",
+    "data structures/Hash Table.md",
+    "data structures/Singly Linked list.md",
+    "data structures/Map.md",
     "data structures/Array list.md",
+    "data structures/Array.md",
+    "utilities/Allocate.md",
+    "utilities/Swap.md",
+    "assets/complexity.png",
+    "utilities/Binary search.md",
+    "complexity/Algorithmic complexity.md",
+    "complexity/Logarithmic О(log(n)).md",
+    "complexity/Linear О(n).md",
     "complexity/Constant O(1).md",
     "complexity/Exponential О(2^n).md",
-    "complexity/Algorithmic complexity.md",
-    "complexity/Quadratic O(n^2).md",
-    "complexity/Logarithmic О(log(n)).md",
-    "complexity/Linear-logarithmic О(n*log(n)).md",
-    "complexity/Linear О(n).md",
     "complexity/Factorial О(n!).md",
-    "assets/complexity.png",
+    "complexity/Linear-logarithmic О(n*log(n)).md",
+    "complexity/Quadratic O(n^2).md",
+    "data structures/Untitled.canvas",
     "2023-11-14.md",
     "complexity/Exponential **О(2^n)**.md",
     "Linear-logarithmic **О(n/*log(n))**.md",

@@ -3,6 +3,7 @@ tags:
   - linear-logarithmic
   - merge-sort
   - recursion
+  - swap
 ---
 Grows faster than linear complexity but slower than quadratic one.
 
