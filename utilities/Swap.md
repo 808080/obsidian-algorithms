@@ -2,7 +2,7 @@
 tags:
   - swap
 ---
-Used to interchange positions of two values in an array.
+Used to interchange values for certain array indices.
 
 ```typescript
 function swap(arr: number[], i: number, j: number) {

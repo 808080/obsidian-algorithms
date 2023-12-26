@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data structures/Least Recently Used.md",
+                "file": "utilities/Swap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data structures/Least Recently Used.md",
+                "file": "utilities/Swap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data structures/Least Recently Used.md",
+                "file": "utilities/Swap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data structures/Least Recently Used.md"
+                "file": "utilities/Swap.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "6476a1f44c7e74ad",
   "lastOpenFiles": [
-    "data structures/Doubly Linked list.md",
     "data structures/Least Recently Used.md",
+    "data structures/Doubly Linked list.md",
     "data structures/Hash Table.md",
     "data structures/Singly Linked list.md",
     "data structures/Map.md",
